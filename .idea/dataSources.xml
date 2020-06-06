@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="Rails api: development" uuid="b9cf0b50-9c87-4e2f-8afe-bc0e2a8b5175">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>$PROJECT_DIR$/config/database.yml</remarks>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:D:\Android-Java-Flutter-Kotlin-Git-Angular-Projects\RailsProjects\api\db\development.sqlite3</jdbc-url>
+    </data-source>
+  </component>
+</project>
